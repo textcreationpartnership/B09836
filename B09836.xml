@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rambling letter to a friend</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09836</idno><idno type="EEBO-CITATION">61297141</idno>
+  <idno type="VID">180656</idno>
+  <idno type="EEBO-PROQUEST">2240865835</idno>
+  
+            <idno type="STC">Wing R199A</idno>
+            <idno type="STC">ESTC R233384</idno>
+            <idno type="OCLC">61297141</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180656)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2839:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rambling letter to a friend</title>
+               </titleStmt>
+               <extent>1 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>[169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Great Britain --  History --  1688-1815.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:180656:1"/>
+            <head>A Rambling Letter to a Friend.</head>
+            <opener>
+               <salute>Dear <hi>Tom!</hi>
+               </salute>
+            </opener>
+            <p>I AM sorry, that not seeing me in six Months, should make you so much forget the natural Caution of my Temper, as to be<g ref="char:EOLhyphen"/>lieve I would, after the late Address, presume to send you any thing more concerning the Affairs of Parliament, than what you find in the printed Votes. I always thought it pragmatical in Men without, to pretend to relate the secret Springs and Turns of Affairs transacted within Doors. I know indeed, that it is the Right of all Constituents to instruct their Representatives as far as con<g ref="char:EOLhyphen"/>cerns their particular Interests; but the Representatives are not obliged to consult their Electors, and much less other People, upon the Com<g ref="char:EOLhyphen"/>mon Good of the whole Republick, unless where Fundamental Altera<g ref="char:EOLhyphen"/>tions are consider'd: and I believe many sagacious Members are of O<g ref="char:EOLhyphen"/>pinion, that our Curiosity ought to be abundantly satisfy'd with what they have ordered their Speaker to publish to the World, till by their Debates they have matur'd their Propositions into Acts.</p>
+            <p>But, <hi>Tom,</hi> tho I will not meddle with the Business of the Senate-House, I will, because you say you love to read my Scribbles, set you down short Narratives of some Conversation I have met with.</p>
+            <p>I have met with strange Men, who <hi>yet</hi> plead for Excises; and it is impossible to convince them, that, in case we had Excises, the land<g ref="char:EOLhyphen"/>ed Men would pay all the Reckoning at last. Indeed they have been a little struck, when I have told them that a General Excise, artfully managed, would supply the Want of a Standing Army; and insensibly regulate Corporations.</p>
+            <p>I told them <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in the hurry of our Discourse, that perhaps too great Impositions upon Trade were not so proper as some imagine: for if you load home Commodities with too great Customs, you hin<g ref="char:EOLhyphen"/>der their Exportation; and what is charged upon Foreign Goods, comes at length out of the Pockets of the Consumers.</p>
+            <p>But I will proceed to the next Pack of Politicians, who would scarce have us eat, drink, or wear, but what is the Produce of our own Country. To these I have, sometimes with, and sometimes without success, made answer:</p>
+            <p>That our Riches, the Figure we make in <hi>Europe,</hi> our Safety from Foreign Invaders, and the Security of our Liberties at Home, do all of them depend upon our Trading Abroad. And these Assertions I have endeavoured to make good by saying,</p>
+            <p>That particular Persons may, but a Nation cannot, grow richer by Trading only within it self.</p>
+            <p>That we must no longer hope to be the Umpires of <hi>Europe,</hi> if our Wealth should fail us.</p>
+            <p>That we cannot breed Seamen, or maintain a Navy (which are the Forts and Garisons of an Island) if we entertain not Commerce with other Nations.</p>
+            <p>That if we had none, or an insufficient Navy, Standing Forces, which might, nay would one time or other, enslave us, must become indi<g ref="char:EOLhyphen"/>spensibly
+<pb n="2" facs="tcp:180656:2"/>necessary to preserve us from being insulted and invaded by our Neighbours; and consequently, that if we leave off to be a Trad<g ref="char:EOLhyphen"/>ing we must resolve to be a Military Kingdom, and be content with a Government proportioned to that State of Things.</p>
+            <p>No sooner had I said this, but I was asked my Opinion of the <hi>East-India</hi> Trade; and was forced to reply, That having never been bred up to any Trade, it was hard to examine me concerning the particular Bran<g ref="char:EOLhyphen"/>ches of it: However I thought long Voyages made able Seamen; bulky Merchant Ships might, in case of Necessity, be turn'd into small Men of War: and since we could by no Sumptuary Laws prohibit the wearing them in other Countrys, whatever we might do in our own, it was pos<g ref="char:EOLhyphen"/>sibly worth while to consider, whether we, or our Neighbours, should be the <hi>European</hi> Carriers of the <hi>East-Indian</hi> Commodities. However, I said, the Parliament is perhaps in the right to examine the Quantities of Bullion exported by trading to those Parts.</p>
+            <p>From hence we fell into a Discourse concerning <hi>Publick Credit;</hi> and I had the impudence to maintain,</p>
+            <p>That it must, like <hi>Cesar</hi>'s Wife, not only be chaste, but unsuspected; and, if the Publick has given a Security, that can be by Chicanery con<g ref="char:EOLhyphen"/>tested, yet the Interpretation must lean towards the Interest of the Cre<g ref="char:EOLhyphen"/>ditors of the Community; for it may reasonably be supposed, that those Creditors rather trusted to the Equity and honest Meaning of those they dealt with, than to their own Judgment and Skill in Conveyances.</p>
+            <p>That it is more necessary it should be so in these days than ever, be<g ref="char:EOLhyphen"/>cause, as honest old <hi>Wallop</hi> us'd to say, <hi>War is changed from Fighting into Eating, Drinking, and Campaigning:</hi> To carry on which new sort of Military Art, I am sure Money is the one thing necessary.</p>
+            <p>That, as in great Conflagrations, because they don't know how or where to be repay'd for them, Men are not willing to let their Houses be blown up till they are overtaken with the Fire: So in a great and ge<g ref="char:EOLhyphen"/>neral Exigence, Men will rather keep their Money till it be seiz'd by the Enemy, than lend it to the Publick, if a Nation defeats the Security it gives, or does not make good all its Contracts with private Men.</p>
+            <p>That it is more particularly necessary for us to be careful of Publick Credit at this Juncture, because, tho the <hi>Scots</hi> are a necessitous, yet they are a stout and warm People, and we may possibly have troubles from that Quarter.</p>
+            <p>I don't say this as if I doubted whether we should at long run be too hard for them; but our danger from that sensible and daring People will be greater, and may be more lasting, if Men should be once pos<g ref="char:EOLhyphen"/>sess'd with an Opinion, that they can't lend securely on an Act of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>And here I can't but commend to thee, Dear <hi>Tom,</hi> what the Lords have lately done in the Case of the Bankers, where, tho they had the Opinion of great Men that differ'd, yet they decided according to those Arguments which seem'd most favourable to <hi>Publick Credit.</hi>
+            </p>
+            <p>I will tell you another Reason, why it is more particularly necessary to be careful at this Juncture of <hi>Publick Credit,</hi> and then conclude; and that is, Because otherwise Men will scarce buy <hi>Irish</hi> Lands, tho the Parliament makes an Act for selling them.</p>
+            <p>Thus I have, to appease you for my not meddling with things above me, sent you my Rambles, with which you may light your Pipe. And so, Dear <hi>Tom,</hi> adieu.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
